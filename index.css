@@ -1,0 +1,125 @@
+.left{
+    width: 150px;
+    height: 935px;
+    background-color: black;
+    float: left;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 1918px;
+}
+.right{
+    float: left;
+    background-color: green;
+    width: 1768px;
+    height: 935px;
+}
+#menu ul {
+    background: black;
+    width: 150px;
+    padding: 0;
+    list-style-type: none;
+    text-align: left;
+    margin-top: 2px;
+  }
+  #menu li {
+    width: auto;
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px solid #e8e8e8;
+    padding: 0 1em;
+  }
+  #menu li a {
+    text-decoration: none;
+    color: silver;
+    font-weight: bold;
+    display: block;
+  }
+  #menu li:hover {
+    background: white;
+  }
+  .foot{
+      height: 79px;
+      width: 1768px;
+      background-color: white;
+      float: left;
+      border-top: 1px solid silver;
+  }
+  .text_foot{
+      font-family: Roboto;
+      line-height: 19px;
+      font-weight: 400px;
+      font-size: 16px;
+      margin-top: 30px;
+      margin-left: 129px;
+  
+  }
+  .content{
+    height: 856px;
+    width: 1768px;
+    background-color: white;
+    float: left;
+  }
+  .content_logo{
+      width: 100%;
+      height: 170px;
+      background-color: white;
+
+      float: left;
+  }
+  .logo{
+    margin: 32px 564px 31px 790px;
+  }
+  .content_title{
+    margin: 0px 172px 0px 172px;
+      width: 1510px;
+      height: 210px;
+      background-color: #EFEFEF;float: left;
+  }
+  .title_txt1{
+      color:#000000;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 21px;
+  }
+  .title_txt{
+      text-align: center;
+  }
+  .title_2{
+      width: 975px;
+      margin-left:128px ;
+  }
+  .content_detail{
+    margin: 0px 172px 0px 172px;
+    width: 1510px;
+    height: 300px;
+    background-color: white;
+    float: left;
+  }
+  .detail_menu{
+    margin-right: 30px;
+      width: 470px;
+      height: 270px;
+      float: left;
+      background-color: white;
+  }
+  .div_detail{
+      width: 470px;
+      height:128px;
+      background-color: white;
+      float: left;
+  }
+  .img{
+      width: 130px;
+      height: 128px;
+      background-color: white;
+      float: left;
+  }
+  .div_detail2{
+    background-color: white;
+  }
+  .detail_p{
+    width: 329px;
+    float: left;
+  }
